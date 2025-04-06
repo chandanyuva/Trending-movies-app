@@ -10,6 +10,6 @@ Currently, two official plugins are available:
 
 # Setps to run locally 
 
-1 First run the npm script inside /server folder "initialize_DB" to create a sqlite db file if not present 
-2 now run the inside the same /server folder "start" script
-3 finally start the front end in / (root of project) using npm "dev" script
+  1. First run the npm script inside /server folder "initialize_DB" to create a sqlite db file if not present 
+  2. now run the inside the same /server folder "start" script
+  3. finally start the front end in / (root of project) using npm "dev" script
