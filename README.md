@@ -33,3 +33,10 @@ each time a user makes a search request in the app the count of that term is cre
 and finally a getTrendingMovies api end point in path "/api/trending" is used to access that data in getTrendingMovies() function call.
 
 This data is rendered using inside the section with class name "trending" in the main app.
+
+
+# Setps to run locally 
+
+  1. First run the npm script inside /server folder "initialize_DB" to create a sqlite db file if not present 
+  2. now run the inside the same /server folder "start" script
+  3. finally start the front end in / (root of project) using npm "dev" script
