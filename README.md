@@ -1,8 +1,18 @@
 ## CS50X Final Project
 
-# Trending Movies app
+# Name: Chandan K P
 
-#### Video Demo: <URL HERE>
+# Github: chandanyuva
+
+# edX: Chandan_K_P
+
+# City: Bangalore
+
+# Country: India
+
+# date: 12-04-2025
+
+#### Video Demo: [<Link>](https://youtu.be/4MtTvmN4Z_A)
 
 #### Description:
 
@@ -34,9 +44,8 @@ and finally a getTrendingMovies api end point in path "/api/trending" is used to
 
 This data is rendered using inside the section with class name "trending" in the main app.
 
+# Steps to run locally
 
-# Setps to run locally 
-
-  1. First run the npm script inside /server folder "initialize_DB" to create a sqlite db file if not present 
-  2. now run the inside the same /server folder "start" script
-  3. finally start the front end in / (root of project) using npm "dev" script
+1. First run the npm script inside /server folder "initialize_DB" to create a sqlite db file if not present
+2. now run the inside the same /server folder "start" script
+3. finally start the front end in / (root of project) using npm "dev" script
